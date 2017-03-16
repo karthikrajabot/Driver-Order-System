@@ -1,0 +1,19 @@
+{
+  "commands": {
+    "debughost": {
+      "fileName": "cmd.exe",
+      "workingDirectory": ".",
+      "arguments": "/c debughost.cmd"
+    },
+    "debughost 1528387630": {
+      "fileName": "cmd.exe",
+      "workingDirectory": ".",
+      "arguments": "/c debughost.cmd"
+    }
+  },
+  "-vs-binding": {
+    "ProjectOpened": [
+      "debughost"
+    ]
+  }
+}
